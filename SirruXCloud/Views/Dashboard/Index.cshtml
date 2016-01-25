@@ -1,0 +1,67 @@
+﻿@using Kendo.Mvc.UI.Fluent
+
+<div class="demo-section">
+    <strong>Inline data (default settings)</strong>
+    @(
+    Html.Kendo().TreeView()
+        .Name("treeview-left")
+        .HtmlAttributes(new {@class = "demo-section"})
+        .DataTextField("Name")
+        .Events(events => events
+            .Select("onSelect")
+            .Change("onChange")
+            )
+        .DataSource(dataSource => dataSource
+            .Model(model => model
+                .Id("id")
+                .HasChildren("hasChildren")
+            )
+            .Read(read => read
+                .Action("Test", "Dashboard")
+            )
+        )
+          )
+</div>
+
+<script>
+    
+    var treeView;
+    var lastSelection
+    function onSelect(e) {
+        if (lastSelection == null || lastSelection !== e) {
+            lastSelection = e;
+        }
+        treeView.expand(e.node);
+    }
+
+    function onChange(e) {
+        if (lastSelection == null) {
+            return;
+        }
+        else if (lastSelection !== e) {
+            treeView.collapse(lastSelection.node);
+            lastSelection = e.node;
+            
+        }
+        
+    }
+    $(document).ready(function() {
+        treeView = $("#treeview-left").data("kendoTreeView");
+    });
+</script>
+
+
+
+<style>
+    #example {
+        text-align: center;
+    }
+
+    .demo-section {
+        display: inline-block;
+        vertical-align: top;
+        width: 220px;
+        text-align: left;
+        margin: 0 2em;
+    }
+</style>
