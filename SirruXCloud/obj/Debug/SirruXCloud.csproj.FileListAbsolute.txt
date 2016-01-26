@@ -1,0 +1,182 @@
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\csc.exe
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\vbc.exe
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\VBCSCompiler.exe
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\SirruXCloud.dll.config
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\SirruXCloud.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\SirruXCloud.pdb
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Antlr3.Runtime.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\EntityFramework.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\EntityFramework.SqlServer.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\FileNet.Api.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Kendo.Mvc.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Web.Services3.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Newtonsoft.Json.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Owin.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\SpatiaX.sxDocs.API.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\SpatiaX.sxDocs.Interface.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.Helpers.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.Mvc.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.Optimization.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.Razor.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.Razor.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\WebGrease.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Antlr3.Runtime.pdb
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Kendo.Mvc.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.Helpers.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.Mvc.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.Optimization.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.Razor.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.Razor.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Newtonsoft.Json.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\EntityFramework.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\EntityFramework.SqlServer.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\obj\Debug\SirruXCloud.dll
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\obj\Debug\SirruXCloud.pdb
+C:\Users\TAucoin\documents\visual studio 2015\Projects\SirruXCloud\SirruXCloud\obj\Debug\SirruXCloud.csprojResolveAssemblyReference.cache
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\csc.exe
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.CSharp.Core.targets
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\System.Collections.Immutable.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\System.Reflection.Metadata.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\vbc.exe
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\VBCSCompiler.exe
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\roslyn\VBCSCompiler.exe.config
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\SirruXCloud.dll.config
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\SirruXCloud.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\SirruXCloud.pdb
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Antlr3.Runtime.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\EntityFramework.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\EntityFramework.SqlServer.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.Core.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.Owin.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Cookies.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Facebook.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Google.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.OAuth.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Twitter.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Web.Infrastructure.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Web.Services3.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Newtonsoft.Json.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Owin.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.Helpers.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.Mvc.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.Optimization.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.Razor.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.Deployment.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.Razor.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\WebGrease.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Antlr3.Runtime.pdb
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Kendo.Mvc.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.Helpers.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.Mvc.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.Optimization.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.Razor.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.Deployment.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\System.Web.WebPages.Razor.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Newtonsoft.Json.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\EntityFramework.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\EntityFramework.SqlServer.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.Core.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.Owin.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Facebook.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Cookies.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.OAuth.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Google.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.Twitter.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\tr-TR\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\es-ES\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\de-DE\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\nl-NL\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\da-DK\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\pl-PL\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\bg-BG\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\cs-CZ\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\sv-SE\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\pt-PT\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\fr-CA\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\ru-RU\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\uk-UA\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\fr-FR\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\it-IT\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\zh-CN\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\ro-RO\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\bin\pt-BR\Kendo.Mvc.resources.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\obj\Debug\SirruXCloud.csprojResolveAssemblyReference.cache
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\obj\Debug\SirruXCloud.dll
+\\sxnas\Public\SirruxProjects\SirruXCloud\SirruXCloud\obj\Debug\SirruXCloud.pdb
